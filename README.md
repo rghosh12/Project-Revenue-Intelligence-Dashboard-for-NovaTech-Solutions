@@ -81,9 +81,7 @@ To attach screenshots, edit this README on GitHub and paste or drag your images 
 
    **Screenshot evidence:**
 
-   > *Attach screenshots here.*
-
-   <!-- Screenshot space: criterion 2, requirement 3. Paste uploaded image Markdown below this comment. -->
+   ![Combined dataset diagram with CRM deals, support tickets, and marketing campaigns, showing the Join 2 left join configuration and join keys](screenshots/unified-dataset-join-configuration.png)
 
    <br><br>
 
