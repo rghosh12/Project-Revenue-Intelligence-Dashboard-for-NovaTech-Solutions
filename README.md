@@ -71,9 +71,7 @@ To attach screenshots, edit this README on GitHub and paste or drag your images 
 
    **Screenshot evidence:**
 
-   > *Attach screenshots here.*
-
-   <!-- Screenshot space: criterion 2, requirement 2. Paste uploaded image Markdown below this comment. -->
+   ![CRM deals calculated fields showing the business logic for Days to Close, Win Flag, and Lost Deal Flag](screenshots/calculated-fields-business-logic.png)
 
    <br><br>
 
