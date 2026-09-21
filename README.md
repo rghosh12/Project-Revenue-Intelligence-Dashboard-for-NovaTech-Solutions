@@ -114,9 +114,21 @@ To attach screenshots, edit this README on GitHub and paste or drag your images 
 
    **Screenshot evidence:**
 
-   > *Attach screenshots here.*
+   **Sales Pipeline — Sales Pipeline Performance**
 
-   <!-- Screenshot space: criterion 3, requirement 1. Paste uploaded image Markdown below this comment. -->
+   ![Sales Pipeline Performance dashboard showing Total Pipeline Deal Value, Total Deal Value by Pipeline Stage, and Total Deal Value by Company Size](screenshots/sales-pipeline-performance-overview.png)
+
+   ![Sales Pipeline Performance dashboard showing Win Rate by Industry, Lost Deals by Loss Reason, and Total Deal Value Trends by Stage](screenshots/sales-pipeline-performance-details.png)
+
+   **Marketing Funnel**
+
+   > *Attach Marketing Funnel screenshots here.*
+
+   **Customer Health**
+
+   > *Attach Customer Health screenshots here.*
+
+   <!-- Screenshot space: criterion 3, requirement 1. Add the remaining sheet screenshots in their matching spaces above. -->
 
    <br><br>
 
