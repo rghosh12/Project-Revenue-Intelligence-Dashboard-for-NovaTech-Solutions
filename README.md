@@ -65,6 +65,8 @@ To attach screenshots, edit this README on GitHub and paste or drag your images 
 
    ![CRM deals data type corrections: deal_created_date and deal_closed_date changed from Datetime to Date](screenshots/data-type-corrections.png)
 
+   ![CRM deals Change data type configuration showing numeric type options and deal_created_date converted from Datetime to Date](screenshots/data-type-corrections-options.png)
+
    <br><br>
 
 2. At least two calculated fields use business logic (e.g., days-to-close, campaign ROI, ticket frequency)
