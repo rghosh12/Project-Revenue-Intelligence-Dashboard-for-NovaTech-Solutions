@@ -97,9 +97,7 @@ To attach screenshots, edit this README on GitHub and paste or drag your images 
 
    **Screenshot evidence:**
 
-   > *Attach screenshots here.*
-
-   <!-- Screenshot space: criterion 2, requirement 5. Paste uploaded image Markdown below this comment. -->
+   ![Dataset list showing unified_data.csv, crm_deals.csv, marketing_campaigns.csv, and support_tickets.csv, each with a SPICE badge](screenshots/all-four-datasets-saved-to-spice.png)
 
    <br><br>
 
