@@ -120,9 +120,15 @@ To attach screenshots, edit this README on GitHub and paste or drag your images 
 
    ![Sales Pipeline Performance dashboard showing Win Rate by Industry, Lost Deals by Loss Reason, and Total Deal Value Trends by Stage](screenshots/sales-pipeline-performance-details.png)
 
-   **Marketing Funnel**
+   **Marketing Funnel — Campaign Lead & Conversion Analysis**
 
-   > *Attach Marketing Funnel screenshots here.*
+   ![Marketing Funnel dashboard overview showing campaign leads, lead-to-deal conversion, and revenue versus campaign spend KPI cards](screenshots/marketing-funnel-overview.png)
+
+   ![Marketing Funnel charts titled Total Leads by Campaign and Lead Volume and Conversion by Campaign](screenshots/marketing-funnel-campaign-performance.png)
+
+   ![Marketing Funnel charts titled Total Campaign Responses by Funnel Stage and Leads and Conversions by Channel](screenshots/marketing-funnel-stages-and-channels.png)
+
+   ![Marketing Funnel Campaign Lead and Conversion Breakdown table with campaign names and lead, response, opportunity, conversion, revenue, and spend columns](screenshots/marketing-funnel-campaign-breakdown.png)
 
    **Customer Health**
 
