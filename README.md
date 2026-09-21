@@ -89,9 +89,7 @@ To attach screenshots, edit this README on GitHub and paste or drag your images 
 
    **Screenshot evidence:**
 
-   > *Attach screenshots here.*
-
-   <!-- Screenshot space: criterion 2, requirement 4. Paste uploaded image Markdown below this comment. -->
+   ![Unified dataset diagram and Join 1 configuration showing support_tickets.csv as the left table, marketing_campaigns.csv as the right table, and Left join selected](screenshots/anchor-table-and-join-type.png)
 
    <br><br>
 
