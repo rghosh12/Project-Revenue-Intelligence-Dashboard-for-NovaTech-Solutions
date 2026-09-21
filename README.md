@@ -63,9 +63,7 @@ To attach screenshots, edit this README on GitHub and paste or drag your images 
 
    **Screenshot evidence:**
 
-   > *Attach screenshots here.*
-
-   <!-- Screenshot space: criterion 2, requirement 1. Paste uploaded image Markdown below this comment. -->
+   ![CRM deals data type corrections: deal_created_date and deal_closed_date changed from Datetime to Date](screenshots/data-type-corrections.png)
 
    <br><br>
 
