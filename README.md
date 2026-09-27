@@ -38,9 +38,7 @@ To attach screenshots, edit this README on GitHub and paste or drag your images 
 
    **Screenshot evidence:**
 
-   > *Attach screenshots here.*
-
-   <!-- Screenshot space: criterion 1, requirement 3. Paste uploaded image Markdown below this comment. -->
+   ![CRM dataset chat showing questions about total row count and known null count, with the assistant reporting 499 rows and 315 nulls in loss_reason](screenshots/verification-log-row-and-null-counts.png)
 
    <br><br>
 
