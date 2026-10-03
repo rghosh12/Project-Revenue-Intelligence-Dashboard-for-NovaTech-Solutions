@@ -46,9 +46,17 @@ To attach screenshots, edit this README on GitHub and paste or drag your images 
 
    **Screenshot evidence:**
 
-   > *Attach screenshots here.*
+   **Marketing campaigns**
 
-   <!-- Screenshot space: criterion 1, requirement 4. Paste uploaded image Markdown below this comment. -->
+   ![Marketing campaigns dataset summary showing a SPICE badge, 2240 rows imported with 100 percent success, and 23 columns](screenshots/spice-import-marketing-campaigns.png)
+
+   **Support tickets**
+
+   ![Support tickets dataset summary showing a SPICE badge, 3000 rows imported with 100 percent success, and 23 columns](screenshots/spice-import-support-tickets.png)
+
+   **CRM deals**
+
+   ![CRM deals dataset summary showing a SPICE badge, 499 rows imported with 100 percent success, and 20 columns](screenshots/spice-import-crm-deals.png)
 
    <br><br>
 
