@@ -120,11 +120,19 @@ To attach screenshots, edit this README on GitHub and paste or drag your images 
 
    **Screenshot evidence:**
 
-   **Sales Pipeline — Sales Pipeline Performance**
+   **Sales Pipeline**
 
-   ![Sales Pipeline Performance dashboard showing Total Pipeline Deal Value, Total Deal Value by Pipeline Stage, and Total Deal Value by Company Size](screenshots/sales-pipeline-performance-overview.png)
+   **Sales Pipeline Overview**
 
-   ![Sales Pipeline Performance dashboard showing Win Rate by Industry, Lost Deals by Loss Reason, and Total Deal Value Trends by Stage](screenshots/sales-pipeline-performance-details.png)
+   ![Sales Pipeline Overview showing KPI cards, deal distribution by stage, customer segment comparisons, loss reasons, and monthly deal creation trends](screenshots/sales-pipeline-overview.png)
+
+   **Revenue by Segment & Product**
+
+   ![Sales Pipeline Revenue by Segment and Product showing KPI cards, revenue by product, customer segment and industry, and a product revenue table](screenshots/sales-pipeline-revenue-by-segment-and-product.png)
+
+   **Win Rates & Sales Performance**
+
+   ![Sales Pipeline Win Rates and Sales Performance showing KPI cards, regional and product win rates, sales representative rankings, manager comparisons, and a revenue leaderboard](screenshots/sales-pipeline-win-rates-and-sales-performance.png)
 
    **Marketing Funnel — Campaign Lead & Conversion Analysis**
 
