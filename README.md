@@ -128,13 +128,21 @@ To attach screenshots, edit this README on GitHub and paste or drag your images 
 
    **Marketing Funnel — Campaign Lead & Conversion Analysis**
 
-   ![Marketing Funnel dashboard overview showing campaign leads, lead-to-deal conversion, and revenue versus campaign spend KPI cards](screenshots/marketing-funnel-overview.png)
+   **Executive Overview**
 
-   ![Marketing Funnel charts titled Total Leads by Campaign and Lead Volume and Conversion by Campaign](screenshots/marketing-funnel-campaign-performance.png)
+   ![Marketing Funnel Executive Overview showing KPI cards, monthly revenue and campaign spend trends, channel spend, and campaign comparisons](screenshots/marketing-funnel-executive-overview.png)
 
-   ![Marketing Funnel charts titled Total Campaign Responses by Funnel Stage and Leads and Conversions by Channel](screenshots/marketing-funnel-stages-and-channels.png)
+   **Channel Performance**
 
-   ![Marketing Funnel Campaign Lead and Conversion Breakdown table with campaign names and lead, response, opportunity, conversion, revenue, and spend columns](screenshots/marketing-funnel-campaign-breakdown.png)
+   ![Marketing Funnel Channel Performance showing lead volume, response rates, opportunity and win rates, revenue, spend, and a channel breakdown table](screenshots/marketing-funnel-channel-performance.png)
+
+   **Campaign ROI Analysis**
+
+   ![Marketing Funnel Campaign ROI Analysis showing campaign spend and revenue comparisons, response rates, and a campaign breakdown table](screenshots/marketing-funnel-campaign-roi-analysis.png)
+
+   **Conversion Funnel & Lead Quality**
+
+   ![Marketing Funnel Conversion Funnel and Lead Quality showing funnel stages, customer segments, industry conversion rates, regional win rates, and a funnel breakdown table](screenshots/marketing-funnel-conversion-funnel-lead-quality.png)
 
    **Customer Health**
 
