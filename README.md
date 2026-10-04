@@ -154,9 +154,17 @@ To attach screenshots, edit this README on GitHub and paste or drag your images 
 
    **Customer Health**
 
-   > *Attach Customer Health screenshots here.*
+   **Health Overview**
 
-   <!-- Screenshot space: criterion 3, requirement 1. Add the remaining sheet screenshots in their matching spaces above. -->
+   ![Customer Health Overview showing support ticket, resolution time, and deal value at risk KPI cards, monthly ticket trends, and ticket counts by priority, sentiment, and region](screenshots/customer-health-overview.png)
+
+   **Ticket Deep Dive**
+
+   ![Customer Health Ticket Deep Dive showing resolution times by priority and product area, ticket volume by product area and contact channel, a priority heatmap, and a ticket summary table](screenshots/customer-health-ticket-deep-dive.png)
+
+   **At Risk Accounts**
+
+   ![Customer Health At Risk Accounts showing a deal value at risk KPI, account ticket volume by sentiment, tickets by customer tier, and an account details table](screenshots/customer-health-at-risk-accounts.png)
 
    <br><br>
 
